@@ -8,4 +8,4 @@ https://www.machinehack.com/course/used-electronics-price-prediction-weekend-hac
 
 ## Model
 * Feature Engineering: Basic Count Vectorizer (didn't explore other options due to tight schedule)
-* Mode: 10 Folds Lightgbm
+* Model: 10 Folds Lightgbm
